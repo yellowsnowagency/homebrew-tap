@@ -1,6 +1,6 @@
 cask "loper" do
-  version "0.1.29"
-  sha256 "c85b1e955bab53136216a3d0518039fbe9cd71120279a31404f6d2225549215c"
+  version "0.1.30"
+  sha256 "6a4d99248f643d086161bda483f6744ddf9bb0ee2bb318cfafdada07274fa3f9"
 
   url "https://github.com/yellowsnowagency/loper-releases/releases/download/v#{version}/Loper_macOS_arm64.dmg"
   name "Loper"
