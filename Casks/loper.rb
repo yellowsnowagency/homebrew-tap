@@ -2,8 +2,7 @@ cask "loper" do
   version "0.1.29"
   sha256 "c85b1e955bab53136216a3d0518039fbe9cd71120279a31404f6d2225549215c"
 
-  url "https://github.com/yellowsnowagency/loper-releases/releases/download/v#{version}/Loper_macOS_arm64.dmg",
-      verified: "github.com/yellowsnowagency/loper-releases/"
+  url "https://github.com/yellowsnowagency/loper-releases/releases/download/v#{version}/Loper_macOS_arm64.dmg"
   name "Loper"
   desc "Small, fast editor and viewer for code, config, logs, subtitles and PDFs"
   homepage "https://loperedit.com/"
